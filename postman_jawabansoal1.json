@@ -1,0 +1,44 @@
+[
+    {
+        "Marketing": "Danang",
+        "Month": "June",
+        "omzet": "205,000,000.00",
+        "komisi": "0.05",
+        "komisi_nominal": "10,250,000.00"
+    },
+    {
+        "Marketing": "Alfandy",
+        "Month": "June",
+        "omzet": "75,000,000.00",
+        "komisi": "0",
+        "komisi_nominal": "0.00"
+    },
+    {
+        "Marketing": "Mery",
+        "Month": "June",
+        "omzet": "1,010,020,000.00",
+        "komisi": "0.10",
+        "komisi_nominal": "101,002,000.00"
+    },
+    {
+        "Marketing": "Alfandy",
+        "Month": "May",
+        "omzet": "138,000,000.00",
+        "komisi": "0.025",
+        "komisi_nominal": "3,450,000.00"
+    },
+    {
+        "Marketing": "Danang",
+        "Month": "May",
+        "omzet": "44,320,000.00",
+        "komisi": "0",
+        "komisi_nominal": "0.00"
+    },
+    {
+        "Marketing": "Mery",
+        "Month": "May",
+        "omzet": "80,000,000.00",
+        "komisi": "0",
+        "komisi_nominal": "0.00"
+    }
+]
