@@ -20,16 +20,19 @@ composer require laravel/ui
 Step 4 – Install Bootstrap Auth Scaffolding
 php artisan ui bootstrap --auth
 
-Step 5 – Install Npm Packages
+Step 5 - Untuk Insert Data Secara Otomatis
+**php artisan db:seed**
+
+Step 6 – Install Npm Packages
 npm install
 npm run dev
 
-Step 6 – Run php artisan Migrate
+Step 7 – Run php artisan Migrate
 php artisan migrate
 
-Step 7 – Run Development Server
+Step 8 – Run Development Server
 
-Step 8 - Last. Run Serve 
+Step 9 - Last. Run Serve 
 php artisan serve
 
 http://127.0.0.1:8000/
