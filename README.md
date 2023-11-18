@@ -24,11 +24,8 @@ npm run dev
 Step 6 – Run php artisan Migrate
 php artisan migrate
 
-tep 7 – Run Development Server
+Step 7 – Run Development Server
+Step 8 - Last. Run Serve 
 php artisan serve
 
 http://127.0.0.1:8000/
-
-
-
-![Uploading image.png…]()
