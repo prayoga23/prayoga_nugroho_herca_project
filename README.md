@@ -1,6 +1,7 @@
-[README.md](https://github.com/prayoga23/prayoga_nugroho_herca_project/files/13399517/README.md)Untuk Install Laravel
+PETUNJUK INSTALL DAN PENGGUNAAN NYA
+**Untuk Install Laravel**
 
-1.	petunjuk cara install dan penggunaannya
+1.
 Composer install
 or 
 Composer Update
